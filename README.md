@@ -1,0 +1,1 @@
+# AI-based-skin-diease-detector
